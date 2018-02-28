@@ -28,3 +28,11 @@ MessengerAndroid/gradle/wrapper/gradle-wrapper.jar
 MessengerAndroid/gradle/wrapper/gradle-wrapper.properties
 MessengerAndroid/gradlew
 MessengerAndroid/gradlew.bat
+MessengerServer/.idea/compiler.xml
+MessengerServer/.idea/description.html
+MessengerServer/.idea/encodings.xml
+MessengerServer/.idea/misc.xml
+MessengerServer/.idea/modules.xml
+MessengerServer/.idea/vcs.xml
+MessengerServer/.idea/workspace.xml
+MessengerServer/MessengerServer.iml
