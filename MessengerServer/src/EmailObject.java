@@ -40,15 +40,16 @@ public class EmailObject {
           //compose message    
           try {    
               
-           MimeMessage message = new MimeMessage(session);    
-           message.addRecipient(Message.RecipientType.TO,new InternetAddress(to));    
+           MimeMessage message = new MimeMessage(session);   
+           
+           message.addRecipient(Message.RecipientType.TO, new InternetAddress(to));    
+           
            message.setSubject(sub);    
-           message.setText(msg);    
+            
+            message.setContent(msg, "text/html");
            
            //send message  
            Transport.send(message);   
-           
-           System.out.println("message sent successfully");    
            
           } catch (MessagingException e) {
              // throw new RuntimeException(e);
