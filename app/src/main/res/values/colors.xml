@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#bf360c</color>
+    <color name="colorPrimaryDark">#870000</color>
+    <color name="colorAccent">#bf360c</color>
+    <color name="accent_material_dark">#1a1a1a</color>
+    <color name="accent_material_light_1">#1a1a1a</color>
+    <color name="tab_color_first">#f9683a</color>
+    <color name="colorButton">#870000</color>
+    <color name="settings_color">#ffbb93</color>
+
+
+    <color name="tab_color_second">#00b8e6</color>
+    <color name="tab_color_third">#00ff99</color>
+    <color name="font_color_main">#666666</color>
+    <color name="font_color_second">#ff8000</color>
+</resources>

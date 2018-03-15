@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Let\'s Chat</string>
+    <string name="tab_text_1">Contacts</string>
+    <string name="tab_text_2">Chats</string>
+    <string name="tab_text_3">Groups</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="all_app_version">\@Created by Let\'s Chat Team, 2018</string>
+    <string name="login_user_id">Username</string>
+    <string name="login_user_nickname">Password</string>
+    <string name="login_connect">Let\'s Chat</string>
+
+    <string name="setting_name">Settings</string>
+</resources>
